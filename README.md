@@ -15,3 +15,7 @@ npm run dev
 ```
 
 Para producción: `npm run build` (genera `dist/`, se puede abrir en cualquier hosting estático).
+
+## Versión publicada
+
+https://claymore121.github.io/calendario-habitos/ — se despliega automáticamente con cada push a `main` (GitHub Actions).
